@@ -1,4 +1,8 @@
- 
+/*
+ * @Author John M. Miller
+ * @Date: 1/17/14
+ * @Contact: johnm22987@gmail.com
+ */ 
 import com.sforce.soap.partner.Field;
  
  

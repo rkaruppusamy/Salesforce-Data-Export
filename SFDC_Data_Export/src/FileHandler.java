@@ -1,3 +1,8 @@
+/*
+ * @Author John M. Miller
+ * @Date: 1/17/14
+ * @Contact: johnm22987@gmail.com
+ */
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileWriter;

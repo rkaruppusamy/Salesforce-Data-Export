@@ -37,7 +37,7 @@ public class BulkMain {
     public static void main(String[] args)
       throws AsyncApiException, ConnectionException, IOException {
         //for loop to take in input from text file
-        BulkExample example = new BulkExample();
+        BulkMain example = new BulkMain();
         InputHandler input = new InputHandler();
         ArrayList<String>[] jobList= input.getObjectsandQueries();
         for(int i = 0; i < jobList[0].size();i++){
